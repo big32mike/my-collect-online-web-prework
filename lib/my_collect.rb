@@ -8,5 +8,6 @@ def my_collect(array)
     end
   else
     puts "empty array"
+  end
   new_array
 end
